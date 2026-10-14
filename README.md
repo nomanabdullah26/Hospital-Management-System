@@ -213,9 +213,10 @@ Avoid uploading real patient records, database passwords, secret keys, or other 
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Noman Abdullah**
 
-- GitHub: [(YOUR_GITHUB_PROFILE_URL)](https://github.com/nomanabdullah26)
+- GitHub: [@nomanabdullah26](https://github.com/nomanabdullah26)
+- Profile: https://github.com/nomanabdullah26
 
 ## 📄 License
 
